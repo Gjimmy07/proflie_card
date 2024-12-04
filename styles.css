@@ -1,0 +1,23 @@
+*{
+   margin: 0px; 
+   padding: 0px;
+}
+
+.color{
+     margin-top: 100px;
+}
+.container
+{  background-color:skyblue;
+width: 800px;
+height: 600px;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+.box
+{ background-color:white;
+    width: 450px;
+    height: 500px;
+border-radius: 10px;
+}
+
